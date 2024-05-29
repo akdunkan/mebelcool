@@ -252,7 +252,7 @@ label{
     font-weight: 600;
     line-height: 24px;
     border-radius: 2px;
-    background: url(../src/img/label.png) 90% center/16px 16px no-repeat, rgba(241, 241, 241, 1);
+    background: url(img/label.png) 90% center/16px 16px no-repeat, rgba(241, 241, 241, 1);
     display: flex;
     align-items: center;
     padding-left: 30px;    
@@ -396,7 +396,7 @@ label:active{
     margin-top: 50px;
     height: 55px;
     width: 100%;
-    background: url(../src/img/+_button.png)right 20px center/15px no-repeat,url(../src/img/button_fon.png) right/ 55px 100% no-repeat,rgba(61, 79, 100, 1);
+    background: url(img/+_button.png)right 20px center/15px no-repeat,url(img/button_fon.png) right/ 55px 100% no-repeat,rgba(61, 79, 100, 1);
     color: rgba(255, 255, 255, 1);
     font-size: 14px;
     font-weight: 600;
